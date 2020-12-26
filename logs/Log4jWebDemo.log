@@ -1,0 +1,128 @@
+INFO    2020-12-03 22:43:37,368 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - We have verified that the logger in a manager
+INFO    2020-12-03 22:43:37,904 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:43:37,923 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-03 22:43:37,923 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-03 22:43:37,926 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-03 22:43:37,928 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-03 22:43:38,336 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - [{"date":"2020-12-02","amount":"600.35","id":4,"status":"pending"},{"date":"2020-12-10","amount":"2600.32","id":6,"status":"pending"},{"date":"2020-12-10","amount":"22.00","id":7,"status":"pending"},{"date":"2020-12-02","amount":"36.36","id":8,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":10,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":11,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":12,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":13,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":14,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":15,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":16,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":17,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":18,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":19,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":20,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":21,"status":"pending"},{"date":"2020-12-02","amount":"2500.00","id":5,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":22,"status":"pending"}]
+INFO    2020-12-03 22:43:57,829 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-03 22:43:57,829 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-03 22:44:11,528 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-03 22:44:12,047 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:44:12,065 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-03 22:44:12,065 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-03 22:44:12,065 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-03 22:44:37,468 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - we have entered the submitReimbursement Servlet
+INFO    2020-12-03 22:44:37,900 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - now being redirected to employee.jsp
+INFO    2020-12-03 22:44:39,769 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:44:39,783 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-03 22:44:39,784 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-03 22:44:39,784 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-03 22:45:44,500 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - we have entered the UpdateEMPInfoServlet
+INFO    2020-12-03 22:45:44,899 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - being redirected to index.jsp
+INFO    2020-12-03 22:46:05,707 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-03 22:46:06,144 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:46:06,159 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-03 22:46:06,159 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-03 22:46:06,160 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-03 22:46:11,727 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-03 22:46:11,727 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-03 22:46:26,507 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - We have verified that the logger in a manager
+INFO    2020-12-03 22:46:26,963 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:46:26,963 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-03 22:46:26,964 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-03 22:46:26,964 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-03 22:46:26,964 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-03 22:46:27,333 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - [{"date":"2020-12-02","amount":"600.35","id":4,"status":"pending"},{"date":"2020-12-10","amount":"2600.32","id":6,"status":"pending"},{"date":"2020-12-10","amount":"22.00","id":7,"status":"pending"},{"date":"2020-12-02","amount":"36.36","id":8,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":10,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":11,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":12,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":13,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":14,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":15,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":16,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":17,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":18,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":19,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":20,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":21,"status":"pending"},{"date":"2020-12-02","amount":"2500.00","id":5,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":22,"status":"pending"},{"date":"2020-12-03","amount":"4000.35","id":23,"status":"pending"}]
+INFO    2020-12-03 22:46:48,229 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - we have now entered the servlet for getting all of an employee's reimbursement records
+INFO    2020-12-03 22:46:48,596 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - getting the employee's reimbursements
+INFO    2020-12-03 22:47:22,658 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-03 22:47:22,658 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-03 22:47:32,262 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-03 22:47:33,014 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:47:33,031 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-03 22:47:33,031 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-03 22:47:33,031 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-03 22:47:41,535 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - we have entered the submitReimbursement Servlet
+INFO    2020-12-03 22:47:41,937 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - now being redirected to employee.jsp
+INFO    2020-12-03 22:47:43,667 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:47:43,682 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-03 22:47:43,682 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-03 22:47:43,682 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-03 22:47:46,978 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-03 22:47:46,978 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-03 22:47:59,437 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - We have verified that the logger in a manager
+INFO    2020-12-03 22:47:59,936 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-03 22:47:59,936 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-03 22:47:59,936 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-03 22:47:59,936 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:47:59,938 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-03 22:48:00,343 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - [{"date":"2020-12-02","amount":"600.35","id":4,"status":"pending"},{"date":"2020-12-10","amount":"2600.32","id":6,"status":"pending"},{"date":"2020-12-10","amount":"22.00","id":7,"status":"pending"},{"date":"2020-12-02","amount":"36.36","id":8,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":10,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":11,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":12,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":13,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":14,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":15,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":16,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":17,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":18,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":19,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":20,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":21,"status":"pending"},{"date":"2020-12-02","amount":"2500.00","id":5,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":22,"status":"pending"},{"date":"2020-12-03","amount":"4000.35","id":23,"status":"pending"},{"date":"2020-12-03","amount":"2000.00","id":24,"status":"pending"}]
+INFO    2020-12-03 22:48:09,453 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - we have now entered the servlet for getting all of an employee's reimbursement records
+INFO    2020-12-03 22:48:09,836 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - getting the employee's reimbursements
+INFO    2020-12-03 22:48:24,003 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - we are now approving or denying reimbursement
+INFO    2020-12-03 22:48:24,461 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-03 22:48:24,461 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-03 22:48:24,461 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-03 22:48:24,461 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-03 22:48:24,462 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-03 22:48:24,836 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - [{"date":"2020-12-02","amount":"600.35","id":4,"status":"pending"},{"date":"2020-12-10","amount":"2600.32","id":6,"status":"pending"},{"date":"2020-12-10","amount":"22.00","id":7,"status":"pending"},{"date":"2020-12-02","amount":"36.36","id":8,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":10,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":11,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":12,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":13,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":14,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":15,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":16,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":17,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":18,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":19,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":20,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":21,"status":"pending"},{"date":"2020-12-02","amount":"2500.00","id":5,"status":"pending"},{"date":"12\/2\/2020","amount":"40.00","id":22,"status":"pending"},{"date":"2020-12-03","amount":"4000.35","id":23,"status":"pending"}]
+INFO    2020-12-04 09:20:23,356 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-04 09:20:23,942 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:20:23,968 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-04 09:20:23,968 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-04 09:20:23,968 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-04 09:21:16,590 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-04 09:21:16,590 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-04 09:21:27,845 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - We have verified that the logger in a manager
+INFO    2020-12-04 09:21:28,442 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:21:28,443 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-04 09:21:28,443 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-04 09:21:28,443 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-04 09:21:28,464 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-04 09:21:28,838 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - []
+INFO    2020-12-04 09:22:19,543 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-04 09:22:19,543 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-04 09:22:32,466 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-04 09:22:32,904 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:22:32,924 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-04 09:22:32,924 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-04 09:22:32,924 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-04 09:26:56,614 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-04 09:26:57,221 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:26:57,252 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-04 09:26:57,252 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-04 09:26:57,252 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-04 09:27:17,800 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - we have entered the submitReimbursement Servlet
+INFO    2020-12-04 09:27:18,218 [http-nio-8080-exec-7] com.ex.webapp.servlets.LoginServlet  - now being redirected to employee.jsp
+INFO    2020-12-04 09:27:19,488 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:27:19,508 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-04 09:27:19,509 [http-nio-8080-exec-3] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-04 09:27:19,509 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-04 09:28:06,433 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - we have entered the UpdateEMPInfoServlet
+INFO    2020-12-04 09:28:06,855 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - being redirected to index.jsp
+INFO    2020-12-04 09:28:38,378 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - We  have verified that the logger is an employee
+INFO    2020-12-04 09:28:38,846 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:28:38,866 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - we have entered the viewPendReimServlet
+INFO    2020-12-04 09:28:38,867 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - we have entered the userinfoservlet
+INFO    2020-12-04 09:28:38,867 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we have entered the viewResdReimServlet
+INFO    2020-12-04 09:28:47,693 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-04 09:28:47,693 [http-nio-8080-exec-8] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
+INFO    2020-12-04 09:28:59,536 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - We have verified that the logger in a manager
+INFO    2020-12-04 09:29:00,139 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:29:00,140 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-04 09:29:00,140 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-04 09:29:00,140 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-04 09:29:00,143 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-04 09:29:00,563 [http-nio-8080-exec-9] com.ex.webapp.servlets.LoginServlet  - [{"date":"2020-12-04","amount":"45.35","id":1,"status":"pending"}]
+INFO    2020-12-04 09:29:37,155 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - we are now approving or denying reimbursement
+INFO    2020-12-04 09:29:37,681 [http-nio-8080-exec-2] com.ex.webapp.servlets.LoginServlet  - The login user's first name is obtained
+INFO    2020-12-04 09:29:37,681 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - we have entered AllPendERServlet
+INFO    2020-12-04 09:29:37,681 [http-nio-8080-exec-5] com.ex.webapp.servlets.LoginServlet  - we are now returning all resolved reimbursements
+INFO    2020-12-04 09:29:37,681 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - The next log should show what pending reimbursements where returned
+INFO    2020-12-04 09:29:37,683 [http-nio-8080-exec-4] com.ex.webapp.servlets.LoginServlet  - entered the getallempservlet
+INFO    2020-12-04 09:29:38,076 [http-nio-8080-exec-6] com.ex.webapp.servlets.LoginServlet  - []
+INFO    2020-12-04 09:30:01,796 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - we have now entered the servlet for getting all of an employee's reimbursement records
+INFO    2020-12-04 09:30:02,187 [http-nio-8080-exec-1] com.ex.webapp.servlets.LoginServlet  - getting the employee's reimbursements
+INFO    2020-12-04 09:30:09,904 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - invalidated session
+INFO    2020-12-04 09:30:09,905 [http-nio-8080-exec-10] com.ex.webapp.servlets.LoginServlet  - redirecting to index.jsp
