@@ -139,12 +139,19 @@ Step 6: Download and Setup DBeaver
  > insert into department(name, manager_id) values('purchasing', 4);
 
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Sam', 'Pengear', 'sampengear@gmail.com','456789', '656 North >Blvd',   1, 1);
+ 
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Bill', 'Pen', 'billpen@gmail.com','456789', '656 North Blvd', 1,    >1);
+ 
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Max', 'Fish', 'maxfish@gmail.com','456789', '656 North Blvd', 2,    >2);
+ 
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Will', 'Bear', 'willbear@gmail.com','456789', '656 North Blvd', 2, >2);
+ 
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Brett', 'Cattlefly', 'brettcattlefly@gmail.com','456789', '656 >North Blvd', 3, 3);
+ 
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Meg', 'TheEgg', 'megtheegg@gmail.com','456789', '656 North Blvd',   >3, 3);
+ 
   >insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Thomas', 'Train', 'thomastrain@gmail.com','456789', '656 North  >Blvd', 4, 4);
+  
  > insert into employee(first_name, last_name, email, password, address, department_id, supervisor_id) values('Frodo', 'Baggins', 'frodobaggins@gmail.com','456789', '656 North  >Blvd', 4, 4);
 
 
