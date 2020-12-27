@@ -165,7 +165,7 @@ Step 9.a: Setup Tomcat in Intellij Ultimate
 Step 9.b: Setup Tomcat in Intellij community
  - https://www.youtube.com/watch?v=Sr9DqV3hZhA&ab_channel=LearningFromExperience
 
-Step 10: got to the resources folder underneath src/main/resources and create a new file called db.properties and provide the following
+Step 10: got to the resources folder underneath src/main/resources in the file called db.properties and provide the following
 >db.url=jdbc:postgresql://databasendpoint/
 >db.username=databaseusername
 >db.password=databasepassword
