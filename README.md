@@ -50,7 +50,7 @@ To-do list:
 ## Getting Started
 
 Here is the git clone command for windows and Unix that will clone the project in the specifide directory you desire
-> git clone 
+> git clone https://github.com/tgage211996/Project1_ExpenseReimbursement.git
 
 Step 1: Download and Setup Java
 - Download Java 1.8 from oracle https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
