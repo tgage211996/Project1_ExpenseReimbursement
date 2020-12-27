@@ -171,8 +171,6 @@ Step 10: got to the resources folder underneath src/main/resources in the file c
 >db.password=databasepassword
 
 ## Usage
-
-- To start the program follow this tutorial to add Tomcat Run configuration https://mkyong.com/intellij/intellij-idea-run-debug-web-application-on-tomcat/
 - Once this is done you should be able to start the Tomcat Run configuration and the program will start in you default browser!
 
 ## Licence
